@@ -1,0 +1,19 @@
+/*
+ Theme Name:   HTML5 Reset Child
+ Theme URI:    https://github.com/rensc097/HTML-Reset-Child-Theme
+ Description: HTML5 Reset Child Theme
+ Author:       Chris Renslow
+ Author URI:   chrisrenslow.chsweb.org
+ Template:     HTML5-Reset-WordPress-Theme
+ Version:      0.1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         mobile, responsive-layout, accessibility-ready,mobile-first
+ Text Domain:  HTML5 Reset Child
+*/
+
+body{
+	color:grey;
+	font-family: Georgia, serif;
+
+}
