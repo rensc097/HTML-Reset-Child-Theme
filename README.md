@@ -1,2 +1,2 @@
-#html rest child theme
+#html reset child theme
 #by Chris Renslow
